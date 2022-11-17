@@ -85,6 +85,7 @@ After the tool is selected, you can start planning your documentation.
 
 > *"Simplicity is the ultimate sophistication."*
 **<p align=left>Leonardo da Vinci**
+    
 You might have noticed that the previous two stages, albeit important, had very obscure relation to creating textual content. But the third stage has direct strategic impact on Writing texts and creating documentation.
 
 Choosing the style is extremely important, as it lays foundation for the entire documentation library for months and years to come. And, unlike regular writers, technical writers have no privilege of writing in long and lexically rich sentences - on the contrary, technical documentation must be straightforward, concise, devoid of any personal traits and hallmarks. Remember, that the one sole purpose of technical documentation is to *inform*, not entertain or show off.
@@ -123,6 +124,7 @@ Altogether, let the KIS (keep it simple) principle be your guiding light.
 
 > *"A man who does not plan long ahead will find trouble at his door."*
 **<p align=left>Confucius**
+    
 After choosing the tool and style guide, you can start planning your document. On this stage, you can choose the structure, the number of sections and sub-sections, and overall information the document needs to contain.
 
 The structure may vary, depending on the type of document your are about to create, but generally, any document includes the following parts:
@@ -144,6 +146,7 @@ When you have planned the document structure, it's hightime you got down to writ
 
 > *"The first draft of anything is sh#t."*
 **<p align=left>Ernest Hemingway**
+    
 Perhaps Ernest Hemingway was too harsh, but a thing to remember is that you can't expect to create an excellent document in your first attempt. Unless you're extremely experienced in the tools, writing docs, and the product or software that you describe.
 
 A draft is actually your first attempt to decompile the information chaos and order it properly. Therefore, don't try to create a perfect page right away.
