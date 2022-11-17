@@ -24,7 +24,7 @@ In technical communication, textual content is the core of any documentation, th
 The entire writing process can be split into roughly six stages:
 1. Gather the required information by any means and via any media at your disposal.
 2. Select the proper tool for creating your documentation.
-3. Select the proper style and grammar preferences. At EPAM, technical writers follow the [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/) standards, unless specified otherwise by the customer.
+3. Select the proper style and grammar preferences. At our company, technical writers follow the [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/) standards, unless specified otherwise by the customer.
 4. Plan the structure of your document and get down to writing.
 5. Create your first draft and send it to your project supervisor for review if any.
 6. Review, update, and publish the document. This aspect will be covered in [Module 7].
@@ -38,6 +38,7 @@ Now, let's have a look at these stages in more detail.
 ## Gathering information
 
 >*"All shall be revealed"*
+    
 The key difference between a writer and a technical writer is that the latter relies on precise and detailed information to create texts. Technical writers have no privilege of a stream of consciousness - only facts and thorough descriptions.
 
 Thus, to create a comprehensive technical document, you need as much precise and detailed information as possible.
@@ -59,6 +60,7 @@ Of course, this is not a comprehensive list, but it gives you the understanding 
 
 > *"Give us the tools, and we will finish the job."*
 **<p align=left>Winston Churchill**
+    
 After you've gathered the information and you know what output formats your documentation needs to have, you can choose the proper tool to complete you work. 
 
 >:warning: **Note:** Choosing a tool may not be an option, because your project or customer may already have a certain toolset, and all you can do is master the existing tools to do your work. Nevertheless, you can try to recommend something to increase the efficiency and accessability of your documentation.
@@ -74,8 +76,6 @@ Just to give a few examples:
 - If your client wants to create an HTML help and PDF documents, then a single-source solution is the best option, like Adobe FrameMaker, Help+Manual, or MadCap Flare.
 - To create a knowledge base or internal developer documentation, you can rely on a Content Management System, like Confluence, which has many integration options.
 - To create API documentation, you can use tools specifically designed to maintain this documentation (Swagger, DreamFactory, and other).
-
-To learn more about TW tools, see [Tools and technologies](https://kb.epam.com/display/ETCCC/Tools+and+technologies?src=contextnavpagetreemode).
 
 After the tool is selected, you can start planning your documentation.
 
@@ -102,8 +102,8 @@ To mention just a few:
 
 These guides contain key rules for grammar, word choice, punctuation, text formatting, and other. Following these rules is key to keeping your documentation user-friendly and comprehensible. 
 
->:memo: **Remember:** No style guide or rulebook has all the answers for you. Don't treat a style guide as a solution for any issue - use your common sense or consult your colleagues.  
-Moreover, different languages have rulesets of their own.
+>:memo: **Remember:** No style guide or rulebook has all the answers for you. Don't treat a style guide as a solution for any issue - use your common sense or consult your colleagues. Moreover, different languages have rulesets of their own.
+    
 >:warning: Trying to combine several guides into a single "perfect" one may result in a Frankenstein of a text. It's better to adhere to a single style guide at least in the same document. The only reason for your to consult another style guide is when you can't find a decent solution to your issue.
 
 Aside from industry standards, customers can have corporate style guides. In this case, you will need to study them carefully before typing your first sentence.
