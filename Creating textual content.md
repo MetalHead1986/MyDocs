@@ -38,7 +38,7 @@ To gather the necessary information, you can use the following methods:
 
 - *Interview subject-matter experts*. For a successful interview, define a proper person, prepare your questions, take notes, or ask if you can record the meeting. If you need clarification, ask immediately. Right after the meeting, open and review your notes. If you missed something, gather your questions and send them via email or set up a follow-up interview until you run out of things to ask. The downside is that it may be problematic to set up a meeting—experts are usually busy with their work.
 
-    >:bulb: **Tip:** Always ask all the questions that you have, no matter how simple or silly they may seem to you—it's better to clarify everything in advance than correct it on the go or miss an important piece of information..
+    >:bulb: Always ask all the questions that you have, no matter how simple or silly they may seem to you—it's better to clarify everything in advance than correct it on the go or miss an important piece of information..
 - *Read product and feature descriptions*.
 You can gather the required information from developer notes, process descriptions, business requirements, and other related documentation such as product requirements, user stories, JIRA issues, and runbooks. The disadvantage is that usually you need to read many (and sometimes lengthy) texts to find the required information. And sometimes you still may need advice as to what to include and what to omit.
 - *Participate in daily meet-ups and team syncs*.
@@ -94,8 +94,6 @@ To ensure that all documentation is unified, clear, and concrete, you can rely o
 Almost any significant software company that has a large documentation library relies on a particular style guide (either internal or external).
 
 To mention just a few:
-
-To mention just a few:
 - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).
 - [Google Developer Documentation Style Guide](https://developers.google.com/style).
 - [Apple Style Guide](https://support.apple.com/en-by/guide/applestyleguide/welcome/web).
@@ -104,7 +102,7 @@ To mention just a few:
 
 These guides contain key rules for grammar, word choice, punctuation, and text formatting. Following these rules is essential to keeping your documentation user-friendly and comprehensible.
 
->:memo: **Remember:** No style guide has all the answers for you. Don't treat a style guide as a solution to any issue—use your common sense or consult your colleagues.<br>
+>:memo: **Remember**<br>No style guide has all the answers for you. Don't treat a style guide as a solution to any issue—use your common sense or consult your colleagues.<br>
 Moreover, different languages have their own sets of rules, so remember that the style guides mentioned here are applicable only to documentation in English.
     
 >:warning: Trying to combine several guides into a single "perfect" one may result in a Frankenstein's text. It's better to adhere to a single style guide at least within the same document. The only reason for you to consult another style guide is when you can't find a decent solution to your issue.
@@ -125,31 +123,9 @@ Altogether, let the KISS (keep it simple and straightforward) principle be your 
 
 ---
 
-## Plan your document
-
-> *"A man who does not plan long ahead will find trouble at his door."*
-**<p align=left>Confucius**
-    
-After choosing the tool and style guide, you can start planning your document. On this stage, you can choose the structure, the number of sections and sub-sections, and overall information the document needs to contain.
-
-The structure may vary, depending on the type of document your are about to create, but generally, any document includes the following parts:
-
-- The introductory part that familirizes users with a product or software.
-- The starting section that helps users to set up the product to better suit their needs and improve their experience.
-- The main section the contents of which depend on the document type: for *guides* it is the description of various procedures; for *descriptions* it is the product details; for *API documentation* it is various attributes, code samples, and other technical information.
-- The support section that contains FAQ and support information.
-
-Additionally, your document may contain a reference section with key notions, additional descriptions, and an index.
-
-In general, the choice of structure depends on the document type and target audience. To learn more about documentation types, see [Types of technical documentation](https://clickhelp.com/clickhelp-technical-writing-blog/types-of-technical-documentation/).
-
-When you have planned the document structure, it's hightime you got down to writing.
-
----
-
 ## Step 4: Plan your document
 
-> *"A man who does not plan long ahead will find trouble at his door."*
+>*"A man who does not plan long ahead will find trouble at his door."*
 **<p align=right>Confucius**
     
 After choosing the tools and the style guide, you can start planning your document. At this stage, you plan the structure, choose the number of sections and subsections, and predict the information each section needs to contain.
@@ -176,6 +152,8 @@ When you realize what your audience needs, you can organize the content effectiv
 - Keep the content scannable, concise, easy to understand, and consistent.
 - Outline the structure, layout, and design. See if you need the assistance of a UX designer.
 - Define requirements for visuals, such as resolution, font size in images, and the need for captions.
+    
+After you have planned the document structure, get down to writing.
 
 ---
     
@@ -242,7 +220,7 @@ To support your opinion, provide some solid sources, such as dictionaries ([Merr
     
 Another pain point may arise if the language of the created documentation is native neither for you nor for the reviewer. That may not be an issue if either of you (or both) are proficient in the language. However, if you don't consider your language level high enough to properly review the linguistic part, then you may ask a third person to review your document, provided they have time to do it.
     
->:pulp: Never give up on improving your language skills—in the long run, it gives you an edge over those who neglect it.
+>:bulb: Never give up on improving your language skills—in the long run, it gives you an edge over those who neglect it.
 
 #### When worlds collide
     
