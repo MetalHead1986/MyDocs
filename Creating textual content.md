@@ -19,7 +19,7 @@ The entire writing process can be split into six stages:
 5. Creating the first draft, polishing it, and sending it to your reviewer, if any.
 6. Reviewing, updating, and publishing the document.
 
-![](Writing-process.png "Document creation process")
+![](Writing_process.png "Document creation process")
 
 Let's take a closer look at these stages.
 
