@@ -8,15 +8,15 @@ Learn about the key stages of creating text and what lies underneath each stage.
 ## Overview
 Text is the primary medium of information in the world, from fairy tales to scholarly articles. It is easy to create, maintain, and transmit, compared to other types of media. Moreover, it is the most space- and memory-saving way of presenting information.
 
-Text is the substance of technical documentation, therefore the primary skill for any technical writer is writing. Thus, you need to know how to organize the process.
+Text is the substance of technical documentation, therefore the primary skill for any technical writer is writing. Thus, you need to know how to organize the writing process.
 
-The entire writing process can be split into six stages:
+The entire  process can be split into six stages:
 
 1. Gathering the required information by any means and via any media at your disposal.
 2. Choosing tools for creating your documentation.
 3. Selecting the suitable style. At EPAM, technical writers follow the Microsoft Writing Style Guide standards, unless specified otherwise by the customer.
 4. Planning the structure of your document.
-5. Creating the first draft, polishing it, and sending it to your reviewer, if any.
+5. Creating the first draft, polishing it, and sending it to your reviewer if any.
 6. Reviewing, updating, and publishing the document.
 
 ![](Writing_process.png "Document creation process")
@@ -38,7 +38,7 @@ To gather the necessary information, you can use the following methods:
 
 - *Interview subject-matter experts*. For a successful interview, define a proper person, prepare your questions, take notes, or ask if you can record the meeting. If you need clarification, ask immediately. Right after the meeting, open and review your notes. If you missed something, gather your questions and send them via email or set up a follow-up interview until you run out of things to ask. The downside is that it may be problematic to set up a meeting—experts are usually busy with their work.
 
-    >:bulb: Always ask all the questions that you have, no matter how simple or silly they may seem to you—it's better to clarify everything in advance than correct it on the go or miss an important piece of information..
+    >:bulb: Always ask all the questions that you have, no matter how simple or silly they may seem to you—it's better to clarify everything in advance than correct it on the go or miss an important piece of information.
 - *Read product and feature descriptions*.
 You can gather the required information from developer notes, process descriptions, business requirements, and other related documentation such as product requirements, user stories, JIRA issues, and runbooks. The disadvantage is that usually you need to read many (and sometimes lengthy) texts to find the required information. And sometimes you still may need advice as to what to include and what to omit.
 - *Participate in daily meet-ups and team syncs*.
@@ -242,7 +242,7 @@ When you feel your content meets the requirements for factual correctness, clari
 - Check notes, references, and hyperlinks for consistent formatting.
 - Check the validity of internal and external references and hyperlinks.
 - Avoid term synonyms and ensure terms are defined and consistently used according to the glossary.
-- Check the quotation sources, if any.
+- Check the quotation sources if any.
 - Resolve any reviewer comments and remove any revision marks and hidden text.
 - Check against the list of abbreviations that they are used properly.
 #### Check tables
