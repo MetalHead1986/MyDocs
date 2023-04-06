@@ -6,7 +6,7 @@
 Learn about the key stages of creating text and what lies underneath each stage.
     
 ## Overview
-Text is the primary medium of information in the world, from fairy tales to scholarly articles. It is easy to create, maintain, and transmit, compared to other types of media. Moreover, it is the most space- and memory-saving way of presenting information.
+Text is the primary medium of information, taking on a variety of forms: from fairy tales to scholarly articles. It is easy to create, maintain, and transmit, compared to other types of media. Moreover, it is the most space- and memory-saving way of presenting information.
 
 Text is the substance of technical documentation, therefore the primary skill for any technical writer is writing. Thus, you need to know how to organize the writing process.
 
