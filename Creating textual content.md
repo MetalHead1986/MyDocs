@@ -16,7 +16,7 @@ The entire  process can be split into six stages:
 2. Choosing tools for creating your documentation.
 3. Selecting the suitable style. At EPAM, technical writers follow the Microsoft Writing Style Guide standards, unless specified otherwise by the customer.
 4. Planning the structure of your document.
-5. Creating the first draft, polishing it, and sending it to your reviewer if any.
+5. Creating the first draft, polishing it, and sending it to your reviewer, if any.
 6. Reviewing, updating, and publishing the document.
 
 ![](Writing_process.png "Document creation process")
